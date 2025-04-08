@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014.<br>📚 I'm still learning to code up until today. Took System Development during diploma and AI during degree.<br>🎯 My goal is to have brilliant brain.<br>🎲 Fun fact: I'm very close with computer since I was kid, started programming in high school but not very good with it haha, but I love to solve problem with coding -not very fun fact</p>
+<p align="left">✨ Creating bugs since 2014.<br>👩‍💻 A full time Mobile App Developer at local FinTech company<br>📚 I'm still learning to code up until today. Took System Development during diploma and AI during degree.<br>🎯 My goal is to have brilliant brain.<br>🎲 Fun fact: I'm very close with computer since I was kid, started programming in high school but not very good with it haha, but I love to solve problem with coding -not very fun fact</p>
 
 ###
 
